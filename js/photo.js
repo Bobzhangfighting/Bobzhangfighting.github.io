@@ -1,3 +1,4 @@
+
  define([], function () {
         return {
             page: 1,
